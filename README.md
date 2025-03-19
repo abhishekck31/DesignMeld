@@ -1,7 +1,7 @@
 # DesignMeld
 
 ![DesignMeld](https://yourimageurl.com/preview.png)  
-*A Web Development Agency*
+*A Web Development Agency.*
 
 ## Overview
 **DesignMeld** is a web development agency specializing in building modern, high-performance websites. Our team focuses on delivering **visually stunning**, **user-friendly**, and **functional** websites tailored to various industries. We aim to help businesses establish a strong online presence with sleek designs and cutting-edge technology.
