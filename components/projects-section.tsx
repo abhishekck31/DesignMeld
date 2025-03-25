@@ -4,7 +4,7 @@ import { GlowText } from "@/components/glow-text"
 export function ProjectsSection() {
   const projects = [
     {
-      title: "Mayuriarts Website",
+      title: "Mayuriarts",
       description:
         "A portfolio website for a professional artist showcasing their artwork, exhibitions, and contact information.",
       imageUrl: "/mayuriarts.png?height=400&width=600",
